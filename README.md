@@ -10,7 +10,7 @@ Task management application that uses WhatsApp endpoints. Allows you to add, com
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/username/task_app.git`
+1. Clone the repository: `git clone https://github.com/leroymwasaru/task_app.git`
 2. Navigate to the project directory: `cd task_app`
 3. Install the dependencies: `npm install`
 
